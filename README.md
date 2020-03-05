@@ -1,2 +1,3 @@
 # Design-Academy
-A website that teaches everything Design.
+A hotel booking website.
+
