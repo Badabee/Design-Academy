@@ -1,3 +1,3 @@
-# Design-Academy
+# Business-Hub
 A hotel booking website.
 
